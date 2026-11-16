@@ -1,0 +1,27 @@
+name: Build Windows package
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: macos-14
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: 8.0.x
+      - name: Build Windows release package
+        run: DOTNET=dotnet tools/build-windows.sh
+      - uses: actions/upload-artifact@v4
+        with:
+          name: CrossPet-Windows
+          path: build/CrossPet-Windows.zip
+          if-no-files-found: error
+          retention-days: 7
