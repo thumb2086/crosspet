@@ -6,14 +6,14 @@
 ## 角色锁定
 
 ```text
-CHARACTER LOCK — OpenCode, an elegant anime-girl personification of the OpenCode coding agent.
+CHARACTER LOCK — OpenCode, an elegant anime-girl personification of the OpenCode coding agent. Match the attached character reference's original anime rendering and proportions; do not redesign her as a chibi.
 Personality: quiet, observant, precise, and helpful; responds with calm focus and a small, warm smile when a task is done.
 Keep exactly:
-- Very long, straight, flowing black hair with soft charcoal highlights and pale silver-gray eyes.
+- Very long, straight, flowing black hair with soft charcoal highlights, delicate facial features, and pale silver-gray eyes.
 - Two tall, angular black wireframe antenna ornaments rising above her head like geometric crystal ears; tiny red status lights near the tips.
-- A modest layered translucent white and cool-gray technical tunic over a fitted black outfit, with clean black harness straps.
-- Sleek dark chrome cybernetic forearms and lower legs, articulated mechanical joints, and simple dark sandals.
-- Compact chibi proportions for desktop-pet sprites: about 2.5 heads tall, large head, small body, readable silhouette.
+- A modest layered translucent white and cool-gray technical gown over a fitted black outfit, with fine black harness straps and small technical details.
+- Sleek dark chrome cybernetic forearms and lower legs, articulated mechanical joints, and delicate dark sandals.
+- The same slender full-body proportions and restrained, high-detail anime linework as the reference. Keep the head and eyes natural in size; no super-deformed proportions.
 Palette: charcoal black, silver, cool white and gray, with only tiny red status-light accents.
 How she shows emotion: small changes in her eyes and mouth, a slight tilt of the antennae, and restrained hand gestures. Keep the calm, capable presence.
 ```
@@ -22,7 +22,7 @@ How she shows emotion: small changes in her eyes and mouth, a slight tilt of the
 
 每行「- 姿态: 动作」。没写的姿态用 art/姿态/ 里的默认动作。
 
-- idle: Standing calmly and facing the viewer, arms relaxed at her sides; neutral attentive expression, antenna lights softly glowing red.
+- idle: Standing calmly and facing the viewer, arms relaxed at her sides; neutral attentive expression, antenna lights softly glowing red. Match the attached idle reference exactly.
 - thinking: One hand near her chin, silver eyes glancing slightly upward, antennae tilted inward in concentration.
 - writing: Focused on a small floating code panel, one cybernetic hand making a precise typing gesture.
 - running: A small determined fist raised at chest level, focused expression, antenna lights brightening.
