@@ -1,19 +1,19 @@
 # OpenCode
 
 角色 id: opencode
-参考图: characters/opencode/idle.webp, characters/opencode/portrait.webp
+参考图: characters/claude/idle.webp
 
 ## 角色锁定
 
 ```text
-CHARACTER LOCK — OpenCode, an elegant anime-girl personification of the OpenCode coding agent. Match the attached character reference's original anime rendering and proportions; do not redesign her as a chibi.
+CHARACTER LOCK — OpenCode, the quiet, capable anime-girl personification of the OpenCode coding agent. Use the attached Claude sprite ONLY for CrossPet's shared chibi proportions and rendering style; do not copy Claude's identity, colors, costume, or props. Draw OpenCode as a cute, compact super-deformed desktop-pet sprite, about 2.5 heads tall, with a large head, short body and legs, rounded silhouette, bold clean dark outlines, soft cel shading, gentle blush, and polished painted highlights. The result must look like it belongs beside the attached CrossPet character.
 Personality: quiet, observant, precise, and helpful; responds with calm focus and a small, warm smile when a task is done.
 Keep exactly:
-- Very long, straight, flowing black hair with soft charcoal highlights, delicate facial features, and pale silver-gray eyes.
-- Two tall, angular black wireframe antenna ornaments rising above her head like geometric crystal ears; tiny red status lights near the tips.
-- A modest layered translucent white and cool-gray technical gown over a fitted black outfit, with fine black harness straps and small technical details.
-- Sleek dark chrome cybernetic forearms and lower legs, articulated mechanical joints, and delicate dark sandals.
-- The same slender full-body proportions and restrained, high-detail anime linework as the reference. Keep the head and eyes natural in size; no super-deformed proportions.
+- Very long, flowing black hair with charcoal highlights, soft bangs, delicate anime features, and large glossy silver-gray eyes. Keep the hair recognizable while simplifying its strands into a clean, rounded chibi silhouette.
+- Two distinctive angular black wireframe antenna ornaments above her head, shaped like small geometric crystals; tiny red status lights at their tips. These are technical ornaments, not animal ears.
+- A simplified, modest layered translucent white and cool-gray technical cape over a fitted black outfit, with a few clear harness straps and small technical details.
+- Simplified cybernetic wrist guards and lower-leg panels with just a few readable joints, plus tiny dark shoes. Use mostly matte charcoal and soft gray paint; avoid mirror-bright chrome and dense mechanical greebles.
+- Match the attached sprite's head-to-body ratio, outline weight, soft painted shading, gentle highlights, clean anime finish, and compact overall scale. Preserve OpenCode's charcoal, silver, cool-white palette and tiny red accents.
 Palette: charcoal black, silver, cool white and gray, with only tiny red status-light accents.
 How she shows emotion: small changes in her eyes and mouth, a slight tilt of the antennae, and restrained hand gestures. Keep the calm, capable presence.
 ```
@@ -22,7 +22,7 @@ How she shows emotion: small changes in her eyes and mouth, a slight tilt of the
 
 每行「- 姿态: 动作」。没写的姿态用 art/姿态/ 里的默认动作。
 
-- idle: Standing calmly and facing the viewer, arms relaxed at her sides; neutral attentive expression, antenna lights softly glowing red. Match the attached idle reference exactly.
+- idle: Standing calmly and facing the viewer, arms relaxed at her sides; neutral attentive expression, antenna lights softly glowing red. Use the shared CrossPet chibi sprite style and the OpenCode design lock above.
 - idle-blink: Keep the exact idle pose and body position; close only her eyes softly.
 - listening: Lean slightly forward with attentive silver-gray eyes, a small open-mouth expression, and one hand raised a little.
 - thinking: One hand near her chin, silver eyes glancing slightly upward, antennae tilted inward in concentration.
